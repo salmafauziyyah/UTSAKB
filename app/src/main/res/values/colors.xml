@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5733</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPutih">#FFFFFF</color>
+    <color name="colorHitam">#000000</color>
+    <color name="colorAbu">#c0c0c0</color>
+    <color name="colorBiru">#006699</color>
+    <color name="gradient_start_color">#2196F3</color>
+    <color name="gradient_end_color">#9E00BCD4</color>
+    <color name="warnaa">#FF5733</color>
+</resources>
